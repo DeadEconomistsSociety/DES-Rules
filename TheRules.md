@@ -9,5 +9,5 @@
 9. Service to community
 10. Self-development
 (Details Later. Work in Progress)
-            Sinecrely Yours
-                  Premium Inter Para
+Sinecrely Yours
+Premium Inter Para
