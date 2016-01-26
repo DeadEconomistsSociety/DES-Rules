@@ -1,7 +1,5 @@
 Welcome to the Dead Economists Society, a free research orgniazation.
- 
-  These are the Dead Economists Society Rules: 
- 
+ These are the Dead Economists Society Rules: 
  Volunteering
  Anonymity
  Secrecy
